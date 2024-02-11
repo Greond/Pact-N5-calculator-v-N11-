@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Канкулятор", "Канкулятор\Канкулятор.csproj", "{5B2C115C-0BCF-4610-8889-A3144CEB0D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B2C115C-0BCF-4610-8889-A3144CEB0D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2C115C-0BCF-4610-8889-A3144CEB0D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2C115C-0BCF-4610-8889-A3144CEB0D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2C115C-0BCF-4610-8889-A3144CEB0D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E873193C-4A88-4EEC-A0A4-80A2DD7F4C4B}
+	EndGlobalSection
+EndGlobal
